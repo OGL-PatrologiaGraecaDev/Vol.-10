@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/10/pst.000005711901/837.png"; bbox 0 0 4118 6350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1666 261 2674 329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1666 261 2674 329">
+     <span class='ocr_line' id='line_1_1' title="bbox 1666 261 2674 329; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1666 261 2075 329; x_wconf 88' lang='lat' dir='ltr'>BR60.M5</span> <span class='ocrx_word' id='word_1_2' title='bbox 2154 262 2375 329; x_wconf 88' lang='lat'>1857</span> <span class='ocrx_word' id='word_1_3' title='bbox 2450 262 2674 329; x_wconf 89' lang='lat' dir='ltr'>t.10</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1784 360 3630 444">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1784 360 3630 444">
+     <span class='ocr_line' id='line_1_2' title="bbox 1784 360 3630 444; baseline -0.001 -15"><span class='ocrx_word' id='word_1_4' title='bbox 1784 360 2125 444; x_wconf 88' lang='lat' dir='ltr'>Migne,</span> <span class='ocrx_word' id='word_1_5' title='bbox 2208 368 2616 444; x_wconf 90' lang='lat' dir='ltr'>Jacques</span> <span class='ocrx_word' id='word_1_6' title='bbox 2687 362 2963 444; x_wconf 89' lang='lat' dir='ltr'>Paul,</span> <span class='ocrx_word' id='word_1_7' title='bbox 3052 361 3630 429; x_wconf 90' lang='lat'>1800-1875.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1907 457 3566 541">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1907 457 3566 541">
+     <span class='ocr_line' id='line_1_3' title="bbox 1907 457 3566 541; baseline 0.001 -16"><span class='ocrx_word' id='word_1_8' title='bbox 1907 457 2502 541; x_wconf 66' lang='lat' dir='ltr'>Patrologia</span> <span class='ocrx_word' id='word_1_9' title='bbox 2565 476 2915 527; x_wconf 88' lang='lat' dir='ltr'>cursus</span> <span class='ocrx_word' id='word_1_10' title='bbox 2986 459 3566 541; x_wconf 89' lang='lat' dir='ltr'>completus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1668 556 2422 640">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1668 556 2422 640">
+     <span class='ocr_line' id='line_1_4' title="bbox 1668 556 2422 640; baseline 0.001 -16"><span class='ocrx_word' id='word_1_11' title='bbox 1668 556 2016 625; x_wconf 89' lang='lat' dir='ltr'>Series</span> <span class='ocrx_word' id='word_1_12' title='bbox 2087 575 2422 640; x_wconf 69' lang='lat' dir='ltr'>graca.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3292 850 3718 919">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3292 850 3718 919">
+     <span class='ocr_line' id='line_1_5' title="bbox 3292 850 3718 919; baseline -0.002 -1"><span class='ocrx_word' id='word_1_13' title='bbox 3292 850 3718 919; x_wconf 87' lang='lat'>5711901</span> 
+     </span>
+    </p>
+   </div>
+  </div>

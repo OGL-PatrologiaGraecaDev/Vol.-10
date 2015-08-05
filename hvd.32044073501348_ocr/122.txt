@@ -1,0 +1,99 @@
+254
+ma καὶ εἰλικρινῆ ὅντα ἀναστρεφομένας ἐώρων, ἐν
+οἷς μόνα ἐπιστήμην ἐνόμιζον. Οἱ δὲ νεώτεροι περι-
+έσπασαν ἐπὶ πλεῖον τὴν προσηγορίαν, οὐ μόνον περὶ
+τὴν ἀσώματον καὶ νοητὴν ὓλην ἀξιοῦντες πραγμα-
+τεύεσθαι τὸν μαθηματικὸν, ἀλλά καὶ περὶ τὴν ἐφα-
+πτομένην τῆς σωματικῆς καὶ αἰσθητῆς οὐσίας. Θεω-
+ρητικδς γάρ ὀφείλει εἶναι, καὶ φορᾶς ἄστρων καὶ τά·
+χους αὐτῶν μεγέθων τε καὶ σχημάτων καὶ ἀποστη-
+μάτων. Ἔτι δὲ ἐπισκεπτικδς τῶν κατά τὰς ὄψεις
+παθῶν . ἐρευνῶν τὰς αἰτίας δι’ ἃς καὶ οὐχ ὁποῖα καὶ
+πηλίκα τὰ ὑποκείμενα τοιαῦτα καί⁹ τηλικαῦτα ἐκ
+παντὸς διαστήματος θεωρεῖται, τηροῦντα μὲν τοὺς
+πρὸς ἄλληλα λόγους, ψευδεῖς δὲ φαντασίας καὶ τῆς
+τάξεως καὶ τῆς θέσεως ἐμποιοῦντα. Τοῦτο μὲν κατ’
+οὐρανὸν καὶ ἀέρα, τοῦτο δὲ ἐν κατόπτροις καί⁸ πᾶσι
+τοῖς λείοις, κάν τοῖς διαφανέσι δὲ τῶν ὁρωμένων καὶ
+τοιουτοτρόποις σώμασι. Πρὸς τούτοις μηχανικὸν εἷ-
+ναι τὸν ἄνδρα δεῖν ᾤοντο καὶ γεωδέτην καὶ λογικόν.
+Ἔτι δὲ καὶ περὶ τὰς αίτίας τῆς ἐμμελοῦς κράσεως
+τῶν φθόγγων καὶ τῆς περὶ μέλος συνθέσεως ἀσχολού-
+μενον, ἆπερ σώματά ἐστιν, ἥτήν γε ἐσχάτην ἀναφο-
+ρὰν ἐπὶ τὴν αἰσθητὴν ὓλην ποιεῖται.
+Τί ἐστι μαθηματική
+Μαθηματική ἐστιν ἐπιστήμη θεωρητικὴ τῷ νοήσει
+τε καὶ⁶αίσθήσει καταλαμϐανομένῳ πρὸς τὴντῶν
+ὖποπιπτόντων δόσιν. Ἤδη δὲ χαριεντιζόμενος τις ἅμα
+κμὶ τοῦ σκοποῦ τυγχάνων μαθηματικὴν ἔφη ταύτην
+ειναι, -
+λ τ’ ἐλᾷ-η ἐιέῖ πρῷτα κορύσσεται· αὐτὰρ ἔπειτα
+Οὐρανῷ ἐστήριξε κάρα καί ἐπί χθονὶ ﬁni-ret.
+’Ᾱρχεται μὲν γὰρ ἀπὸ σημείου καὶ γραμμῆς, εἶτα
+δὲ τὴν οὐρανοῦ καὶ συμπάντων ἀσχολεῖται πραο
+γματων. ,
+uta: μέρη μαθηματικῆς ;
+Τῆς μὲν τιμιωτέρας καὶ πρώτης ὀλοσχερέστερα
+{1591; δύο ἀριθμητικὴ καὶ γεωμετρία. Τῆς δὲ περὶ
+τὰ αἰσθητά ἀσχολουμένης ἐξοή λογιστικὴ, retinacula,
+ὀπτικὴ, κανονικὴ , μηχανικὴ , ἀστρονομική. Ὅτι δὲ
+τὸ τακτικὸν καλούμενον οῦτε τὸ ἀρχιτεκτονὶκὸν, οὔτε
+τε) ἀημῶδες μουσικὸν.ἢ τὸ περὶ τὰς φύσεις, ἀλλ’ οὐδὲ
+τὸ ὁμωνύμως καλούμενον μηχανικὸν, ὡς οἴονταί τινες,
+μέρη μαθηματικῆς εἰσι, προϊόντος τοῦ λόγου σαφῶς
+τε καῖ ἐμμεθόδως δείξομεν.
+ὀτι ὁ κύκλος ἔχει στερεάς μὲν τῖ’ ἐπίπεδα δὲ ae”
+γωνίας δὲ δ’.
+Τίνα τίσι προσεγγίζει τῶν μαθημάτων;
+Συνεγγίζει μᾶλλον τῇ μὲν ἀριθμετικῇ ἡ λογιστικὴ
+καὶ ἡ κανονική· καὶ γὰρ αὕτη ἐν ποσότητι λαϐοῦσα
+κατά λόγους , ἀριθμοὺς κα)⁸ ἀναλογίας πρόσεισι. Τῇ
+δὲ γεωμετρίᾳ η ὀπτικὴ καὶ ἡ γεωδεσία. Ἀμφοτέραις
+δὲ καὶ ἐπὶ πλέον ἡ μηχανικὴ καὶ ή ἀστρολογικὴ.
+Ὀτιή μαθηματικὴ τάς ἀρχάς μὲν ἔχει ἐξ ὑπόθε-
+σεως καὶ περὶ ὑπόθεσιν. Λέγεται δὲ ὑπόθεσις τριχῶς
+ΡΑτιιοι.. Gn. Χ.
+
+235
+puraque eas versari, videbant Pythagorici, in qui-
+bus solummodo consistere scientiam opinabantur.
+Recentiores vero philosophi hoc nomen extensio;
+dilatavere, ita ut nou tantum circa incorpoream et
+spiritualem substantiam versari mathematicum vo-
+luerint, sed etiam circa substantiam corporeae et
+sensibili materiae proximam. Debet enim nosse theo-
+riam siderum cursus, velocitatis, magnitudinum
+formarum ac distantiarum; debet etiam examinare
+quomodo oculos alliciant astra, investigando cur
+cum qualia, aut quanta sint sidera observata, non
+talia tantaque ex omni distantia conspiciantur,
+cum haec astra quidem servent mutuas rationes,
+sed mendaces aspectus sive ordinis, sive positum
+. elliciant. Aspectus tales siderum, modo (δίειί et aeris
+status determinat, modo specula, aut omnis su-
+Hou. Iliad. Iv, 442 et M5.
+(Vino. Eneid. Iv, £76, 177).
+incipit enim a puncto et linea, mox cmlum ipsum
+ac omnia amplectitur.
+Quot mathematicae partes?
+, Nobilioris quidem et prioris mathematica: partes
+praecipua: duae sunt: arithmetica scilicet ageometria.
+Mathematica: vero quae sensibilia amplectitur sex par-
+tes adsunt, scilicet computatio, geodesia, optica, ,
+musica, mechanica, astronomia; quod autem neque
+tactica, neque architectura, neque vulgaris musica,
+neque physica, neque etiam ars illa quae homonyme
+vocatur mechanica, mathematicae sint partes, ut
+ι) quidam credunt, inl'ra sermonis lucidus ordo de-
+monstrabit.
+Quod circulus habet solida octo, superﬁcies sex,
+angulos quatuor.....
+ο Quae quibus mathematica: partibus proxima 2
+Arithmeticze propiores sunt computatio et mu.
+ι sica; haec enim quantitatis particeps secundum ra-
+tiones, numeros et analogiam illi appropinquat. Geo-
+metrite vero viciniores optica et geodesia. Ambabus
+autem proxima: mechanica et astrologia.
+Quod mathematica principia habet ab hypotbesi
+et circa bypotbesin. Dicitur hypothesis triplex , vel
+8
